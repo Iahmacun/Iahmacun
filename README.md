@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iahmacun&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='[https://memer-new.vercel.app/](https://www.reddit.com/r/KGBTR.json)' style="height: 400px;"/>
+<img src='https://www.reddit.com/r/KGBTR.json' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
