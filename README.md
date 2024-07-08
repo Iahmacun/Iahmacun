@@ -1,11 +1,9 @@
 
 
-<h2>I'm BYSedX</h2>
+<h2>I'm Lahmacun</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp;Milleti kurtaranlar yalnız ve ancak öğretmenlerdir. Öğretmenden, eğiticiden yoksun bir millet, henüz millet namını almak istidadını keşfetmemiştir .
-- 🎓 &nbsp; Studying ...
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
