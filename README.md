@@ -1,15 +1,47 @@
+💫 Merhaba, Ben Mustafa Kayacıoğlu! ✨
+🌍 Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-kayacıoğlu-a8100a2b4/)
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+Yazılım dünyasında sürekli öğrenmeye ve kendimi geliştirmeye tutkulu bir geliştiriciyim. Özellikle web teknolojileri, bulut bilişim ve veri tabanları üzerine odaklanıyorum.
 
+🛠️ Teknik Yetenekler
+Frontend:
+https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/-CSS3-1572B6?logo=css3 https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs
 
-<div align="center"><img src="snake.svg"></div>
+Backend:
+https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs https://img.shields.io/badge/-Express-000000?logo=express https://img.shields.io/badge/-Python-3776AB?logo=python https://img.shields.io/badge/-PHP-777BB4?logo=php
 
+Veritabanları:
+https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb https://img.shields.io/badge/-MySQL-4479A1?logo=mysql https://img.shields.io/badge/-SQLite-003B57?logo=sqlite
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Iahmacun&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iahmacun&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iahmacun&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+DevOps & Bulut:
+https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare
 
+🏆 GitHub Başarıları
+https://github-profile-trophy.vercel.app/?username=Iahmacun&theme=radical&no-frame=true&no-bg=true&margin-w=4
+
+📈 GitHub İstatistiklerim
+<div style="display: flex; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api?username=Iahmacun&show_icons=true&theme=radical" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iahmacun&theme=radical" width="48%"> </div>
+🌱 Şu Anda Öğrendiklerim
+Go programlama dili ile mikroservis mimarileri
+
+AWS Lambda ve serverless mimariler
+
+Vue 3 ve Composition API
+
+📫 Bana Ulaşın
+https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin
+https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter
+https://img.shields.io/badge/Medium-12100E?logo=medium
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iahmacun&theme=react-dark&hide_border=true"> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=Iahmacun&label=Profile%20views&color=0e75b6&style=flat" alt="Iahmacun" /> </p>
+Bu profil daha profesyonel ve modern bir görünüm sunuyor. İsterseniz:
+
+Daha fazla sosyal medya bağlantısı ekleyebilirsiniz
+
+Blog yazılarınızı veya projelerinizi öne çıkarabilirsiniz
+
+Özel bir banner/resim ekleyebilirsiniz
+
+Katkıda bulunduğunuz açık kaynak projeleri gösterebilirsiniz
+
+New chat
